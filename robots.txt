@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ylp1x9.kujang138.space/sitemap.xml
